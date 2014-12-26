@@ -1,7 +1,0 @@
-<?php
-/**
- * @file
- * Code for the tumblelog feature.
- */
-
-include_once 'tumblelog.features.inc';
